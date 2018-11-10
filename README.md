@@ -1,1 +1,1 @@
-# react-example
+# Simple React CRUD app
